@@ -139,5 +139,12 @@ a:hover {
 button:hover {
     color: #000;
     background-color: #fff;
+}
 
+
+
+@media screen and (min-width: 1080px) {
+    
+    
+}
 
